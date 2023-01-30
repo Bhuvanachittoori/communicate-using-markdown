@@ -1,1 +1,15 @@
-### Example ```md ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) ``` #### How it looks <img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400> ### 🎹
+# This is Bhuvana Chittoori(z1946947)
+## Welcome to communicate-using-markdown
+###### Let's hope for the best.
+
+![Image of my NIU Mission III](https://www.myniu.com/images/vault/442.jpg)
+
+```
+$ Print("Welcome to NIU!!")
+Welcome to NIU!!
+```
+
+- [x] Create Git Respositorty.
+- [x] Make a pull request.
+- [x] Edit the File.
+- [ ] Let's complete the task.
